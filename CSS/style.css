@@ -14,3 +14,10 @@ p{
 	color: red;
 	font-size: 50px;
 }
+table{
+	background: red;
+
+}
+td, tr, th{
+	border: solid 1px blue;
+}
