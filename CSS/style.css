@@ -1,0 +1,16 @@
+section{
+	background: black;
+	color: white;
+}
+#git{
+	background-color: #27B7A1;
+}
+h1{
+	color: red;
+	font-family: Arial;
+	font-size: 25px;
+}
+p{
+	color: red;
+	font-size: 50px;
+}

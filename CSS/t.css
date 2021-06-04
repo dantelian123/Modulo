@@ -1,0 +1,23 @@
+section{
+	background: #000000;
+}
+
+section div{
+	width:  500px/*Ancho*/;
+	height: 200px;/*Alto*/
+	/*overflow: scroll;
+	overflow-y: scroll;*/
+	/*margin: 10px 10px 10px 10px; /*auto = centrado*/
+	margin: auto;
+	padding: 10px 10px 10px 10px;
+}
+
+#uno{
+	background: #F48080;
+}
+#dos{
+	background: #95EFCF;
+}
+u{
+	color: white;
+}

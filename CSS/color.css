@@ -1,0 +1,13 @@
+h1{
+	color: #06F8EF;
+}
+
+/*
+rgb(rojo, verde,azul);
+rgba(rojo, verde, azul,alfa)
+0-->1
+transparente-->color
+hsl(matiz, saturacion, luminosidad);
+hsla(matiz, saturacion, luminosidad, alfa);
+color: blue, red, white, etc;
+*/

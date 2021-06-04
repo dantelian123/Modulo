@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+}
+
+.verdana{
+	font-family: Verdana;
+	font-weight: bold;
+	letter-spacing: 5px; /*espaciado*/
+}
+
+p{
+	font: bold 17px Thahoma;
+	/*font-size: 20px;
+	font-style: italic;
+	*/
+}
+
+#texto{
+	/*text-align: center /*right or left*/;
+	/*text-align-last: right;*/
+	text-indent: 20px; /*sangria*/
+	line-height: 20px; /*Espacio entre lineas*/
+	text-decoration: overline;
+}
+
+#texto img{
+	width: 50x;
+	height: 50px;
+	vertical-align: text-top;
+
+}	
+
+a{
+	text-decoration: none; /*overline, none, underline, etc*/;	
+}
+/*#texto {
+	font-family: Arial, Verdana;
+}*/

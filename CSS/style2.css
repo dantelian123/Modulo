@@ -1,0 +1,27 @@
+/*p, li{
+	color: white;
+	background: black;
+}
+
+header p{
+	background: blue;
+	color: red;
+}
+section > p{
+	color: green;
+}
+
+h2 + li{background: red;}
+*/
+#principal{
+	border: solid 2px blue;
+}
+.Arial{
+	border: 5px red;
+	font-family: arial;
+}
+
+.rojo{
+	background: red;
+	color: white;
+}

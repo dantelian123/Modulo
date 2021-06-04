@@ -1,0 +1,22 @@
+#contenedor{
+	border: solid 2px;
+	width: 600px;
+	height: 200px;
+	margin:  200px auto;
+	padding: 10px;
+	/*background-color: #38DB94;
+	background-image: url(../IMG/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4Nzk.jpg);
+	background-repeat: no-repeat;
+	/*background-position: right;
+	background-size: cover;
+	background-attachment: fixed;*/
+	background: #38DB94 url(../IMG/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4Nzk.jpg) no-repeat fixed;
+}
+#contenedor2{
+	height: 1200px;
+
+}
+#contenedor1{
+	height: 1200px;
+
+}
